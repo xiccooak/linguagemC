@@ -18,4 +18,8 @@ taxa = taxa / 100;
 desconto = preco * taxa;
 preco_final = preco - desconto;
 printf("o valor do deconto é porcentagem %f e o valor final é porcentagem %f", desconto, preco_final);
+#include <stdio> // biblioteca standart de Imput/Output
+int main()
+{
+    int 
 }

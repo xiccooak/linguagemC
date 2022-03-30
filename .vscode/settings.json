@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "elementos.h": "c",
+        "stdio.h": "c"
+    }
+}
